@@ -2,6 +2,7 @@
 
 An MCP server implementation that provides tools for retrieving and processing documentation through vector search, enabling AI assistants to augment their responses with relevant documentation context.
 
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/hannesrudolph/mcp-ragdocs)](https://archestra.ai/mcp-catalog/hannesrudolph__mcp-ragdocs)
 <a href="https://glama.ai/mcp/servers/54hsrjhmq9"><img width="380" height="200" src="https://glama.ai/mcp/servers/54hsrjhmq9/badge" alt="mcp-ragdocs MCP server" /></a>
 
 ## Features
