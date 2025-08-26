@@ -1,5 +1,7 @@
 # RAG Documentation MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@hannesrudolph/mcp-ragdocs)](https://smithery.ai/server/@hannesrudolph/mcp-ragdocs)
+
 An MCP server implementation that provides tools for retrieving and processing documentation through vector search, enabling AI assistants to augment their responses with relevant documentation context.
 
 <a href="https://glama.ai/mcp/servers/54hsrjhmq9"><img width="380" height="200" src="https://glama.ai/mcp/servers/54hsrjhmq9/badge" alt="mcp-ragdocs MCP server" /></a>
@@ -85,6 +87,14 @@ You'll need to provide values for the following environment variables:
 - `OPENAI_API_KEY`: Your OpenAI API key for embeddings generation
 - `QDRANT_URL`: URL of your Qdrant vector database instance
 - `QDRANT_API_KEY`: API key for authenticating with Qdrant
+
+### Installing via Smithery
+
+To install RAG Documentation for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@hannesrudolph/mcp-ragdocs):
+
+```bash
+npx -y @smithery/cli install @hannesrudolph/mcp-ragdocs --client claude
+```
 
 ## License
 
