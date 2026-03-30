@@ -12,6 +12,10 @@ An MCP server implementation that provides tools for retrieving and processing d
 - Automated documentation processing
 - Real-time context augmentation for LLMs
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/hannesrudolph-mcp-ragdocs).
+
 ## Tools
 
 ### search_documentation
